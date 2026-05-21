@@ -1,0 +1,7 @@
+Lowest price model: Redmi8
+Redmi8 | Xiaomi | 300
+Redmi9 | Xiaomi | 350
+Pixel5 | Google | 700
+Pixel6 | Google | 800
+Iphone16 | Apple | 900
+Iphone17 | Apple | 1000

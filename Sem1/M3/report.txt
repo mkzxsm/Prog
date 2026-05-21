@@ -1,0 +1,9 @@
+--- Sorted Exhibits Report ---
+Name           Origin         Year  Price     Qty  Total Value
+-------------------------------------------------------------
+Coin           Rome           100   8000      3     Total: 24000
+Statue         Italy          1600  90000     1     Total: 90000
+Painting       Monet          1872  500000    1     Total: 500000
+Vase           Greece         1890  12000     1     Total: 12000
+-------------------------------------------------------------
+Total Value: 626000

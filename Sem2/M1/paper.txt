@@ -1,0 +1,4 @@
+Paper book 1 Author 1 385 177 hard
+Paper book 1 Author 1 586 534 hard
+Paper book 1 Author 1 705 518 hard
+Paper book 1 Author 1 767 291 hard
